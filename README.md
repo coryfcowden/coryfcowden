@@ -3,7 +3,6 @@
 I'm a Software Engineering student at **Cal Poly, San Luis Obispo** with a passion for **robotics, UI/UX design, and building tools that connect people and technology**.  
 I love creating thoughtful interfaces and collaborating across disciplines to make complex systems more usable and human-centered.
 
----
 
 ## Featured Projects
 
@@ -19,9 +18,8 @@ Created Figma mockups, assisted with installation/testing, and supported custome
 Backend API for a collaborative recipe-sharing blog with filters, ratings, and comments.  
 Designed the backend logic and helped manage team version control.
 
----
 
-## UI/UX Design Portfolio *(WIP)*
+## UI/UX Design Portfolio
 
 ### [Farm-ng Report Issue App (Figma)](https://www.figma.com/design/MtXspyJpeWJPUjjQqfRHLv/Farm-ng-Debug-App?node-id=0-1&t=JLHvUyUnY3v8L5cm-1)
 Figma prototype for the Amiga robot “Report Issue” app, used to streamline debugging and service requests.
@@ -30,15 +28,9 @@ Figma prototype for the Amiga robot “Report Issue” app, used to streamline d
 Early-stage prototype for a nonprofit outreach tracking tool.  
 Collaborating with **Caritas Valencia (Spain)** to improve field technician workflow and data collection.
 
----
 
 ## Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/cory-cowden)
 - [GitHub](https://github.com/coryfcowden)
 - [Email Me](mailto:coryfrancis10@gmail.com)
-
----
-
-> *“Good design makes technology approachable.”*  
-> — Dieter Rams
