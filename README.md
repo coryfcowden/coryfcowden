@@ -1,6 +1,6 @@
 # Hi, I'm Cory Cowden
 
-I'm a Software Engineering student at **Cal Poly, San Luis Obispo** with a passion for **, UI/UX design and building tools that connect people and technology**.  
+I'm a Software Engineering student at Cal Poly, San Luis Obispo with a passion for UI/UX design and building tools that connect people and technology.  
 I love creating thoughtful interfaces and collaborating across disciplines to make complex systems more usable and human-centered.
 
 
